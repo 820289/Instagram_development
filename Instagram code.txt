@@ -1,0 +1,13 @@
+This is INSTAGRAM CODE:
+
+Author: Yaminimohan
+
+1. login page code
+
+2. profile page code.
+
+3. chat box code.
+
+3. story uploded code.
+
+4. Attachements (image, video, audio) code.
