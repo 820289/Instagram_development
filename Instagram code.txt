@@ -17,3 +17,7 @@ update post code.
 Hiding the post, story, last seen code.
 
 Tag people want to reach high code.
+
+Adding video chat features code.
+
+Adding Audio chat features code.
